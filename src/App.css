@@ -1,0 +1,11 @@
+p {
+  font-size: 26px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 1rem;
+}
